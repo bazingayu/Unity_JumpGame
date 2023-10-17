@@ -1,4 +1,2 @@
 # JumpGame
-Augmented Reality Assignment  
-Team Member: Junwei Yu  
-Tianhua Liu  
+showcase the ability to use unity to create a fun VR game. wrote some C# code here. 
